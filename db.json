@@ -1,0 +1,10 @@
+{
+    "posts": [
+        {"id": 0, "title": "React", "body": "React is library ot framework?"},
+        {"id": 1, "title": "JavaScript", "body": "What is better JavaScript vanilla or JavaScript with framework?"},
+        {"id": 2, "title": "TypeScript", "body": "How often we need to use TypeScript?"}
+    ],
+    "about": {
+        "title": "Something about us"
+    }
+}
